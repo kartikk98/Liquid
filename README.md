@@ -10,3 +10,5 @@ It detects speech and other sounds from audio. Speech is converted to text, and 
 
 <p><strong><em> Utility </em></strong> :-  
 <p>This can be used by people with hearing impairments, helping them not just understand what is being said, but also showing them what's happening around them visually (cars passing by, dogs barking, police/ambulance sirens, and even gunshots). We hope that it may bring them a step forward to experience the world as we do. It can also be used to enhance any audio-only form of media by augmenting it with relevant images, GIFs and text.</p>
+<p></p>
+<p>Output video clip : https://youtu.be/nAOdcLrpLyg</p>
